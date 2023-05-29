@@ -1,7 +1,7 @@
 # ｔｈｒｏｕｇｈ ｔｈｅ ｄａｒｋｎｅｓｓ
 
-Welcome to Through the darkness, a 2D game that takes you on an adventure through a city, underground tunnels, and a treacherous maze.
-This is a student game project that was made for "Mediums and Communications"
+Welcome to Through the darkness, a short 2D game that takes you on an adventure through a city, underground tunnels, and a treacherous maze.
+This is a student game project that was made for "Mediums and Communications" in 5 days.
 # Gameplay
 You assume the role of the courageous whistleblower who has decided to leak classified information about a dangerous chemical plant for the greater good of humanity.
 
