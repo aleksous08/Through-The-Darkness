@@ -12,7 +12,9 @@ public class Ob : MonoBehaviour {
     void Update() {
         if (dialogActive && diaolagBox != null && !diaolagBox.activeInHierarchy) {
             diaolagBox.SetActive(true);
-            diaolagText.text = diaolog;
+            if (diaolagText != null) {
+                diaolagText.text = diaolog;
+            }
         } else if (!dialogActive && diaolagBox != null && diaolagBox.activeInHierarchy) {
             diaolagBox.SetActive(false);
         }
