@@ -5,7 +5,7 @@ This is a student game project that was made for "Mediums and Communications" in
 
 # Installation
 1. Play the game on itch.io: __________
-2. Download the latest executable from the Releases tab.
+2. Download the [latest executable](https://github.com/nullobjects/Through-The-Darkness/releases).
 
 # Gameplay
 You assume the role of the courageous whistleblower who has decided to leak classified information about a dangerous chemical plant for the greater good of humanity.
