@@ -4,7 +4,7 @@ Welcome to Through the darkness, a short 2D game that takes you on an adventure 
 This is a student game project that was made for "Mediums and Communications" in 5 days.
 
 # Installation
-1. Play the game on itch.io: __________
+1. Play the game on [itch.io](https://viks1.itch.io/through-the-darkness)
 2. Download the [latest executable](https://github.com/nullobjects/Through-The-Darkness/releases).
 
 # Gameplay
