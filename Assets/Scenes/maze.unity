@@ -21072,6 +21072,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cutsceneObject: {fileID: 481325094}
+  cutsceneObject2: {fileID: 1260407875}
 --- !u!1 &505734599
 GameObject:
   m_ObjectHideFlags: 0

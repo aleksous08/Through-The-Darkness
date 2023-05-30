@@ -3671,7 +3671,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 0
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 5
+  m_SortingOrder: 500
   m_TargetDisplay: 0
 --- !u!224 &561767227
 RectTransform:
@@ -4823,6 +4823,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cutsceneObject: {fileID: 1546763948}
+  cutsceneObject2: {fileID: 428463137}
 --- !u!1 &762530487
 GameObject:
   m_ObjectHideFlags: 0
@@ -8539,7 +8540,7 @@ RectTransform:
   m_GameObject: {fileID: 1398883086}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2.7818983, y: 0.26642582, z: 1}
+  m_LocalScale: {x: 3.2982187, y: 0.22901215, z: 1.1856}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 561767227}

@@ -5,6 +5,7 @@ using UnityEngine;
 public class SkipCutscene : MonoBehaviour
 {
     public GameObject cutsceneObject;
+    public GameObject cutsceneObject2;
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.LeftShift) || Input.GetKeyDown(KeyCode.RightShift))
@@ -18,7 +19,11 @@ public class SkipCutscene : MonoBehaviour
     {
         if (cutsceneObject != null)
         {
-            cutsceneObject.SetActive(false);
+            Destroy(cutsceneObject);
+        }
+        if (cutsceneObject2 != null)
+        {
+            Destroy(cutsceneObject2);
         }
     }
 }

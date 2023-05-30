@@ -12,7 +12,8 @@
     <list default="true" id="a7a7b552-d057-4d18-8275-1eac1be15bfd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scenes/final_podrum.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Scenes/final_podrum.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenes/room.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Scenes/room.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skip_cutscene.cs" beforeDir="false" afterPath="$PROJECT_DIR$/skip_cutscene.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +55,7 @@
       <updated>1685369794804</updated>
       <workItem from="1685369809857" duration="714000" />
       <workItem from="1685391885030" duration="589000" />
+      <workItem from="1685405515341" duration="366000" />
     </task>
     <servers />
   </component>
